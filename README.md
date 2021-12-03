@@ -1,4 +1,4 @@
-# Citi Bike Analysis: NYC --> Des Moines[?]
+# Citi Bike Analysis: NYC --> Des Moines?
 ---
 ## Purpose
 * The purpose of this analysis is to identify compelling reasons regarding why Des Moines, Iowa would be an ideal location for a Citi Bike bikesharing service to succeed. In doing so, we were given a CSV filled with Citi Bike's NYC trip data from August, 2019. From there, we were instructed to perform analysis on this data via Tableau to uncover trends that would support Des Moines, Iowa being a suitable location for a bikesharing service launch. Finally, we were tasked with piecing the various Tableau worksheets together to create a a Tableau story to present to potential investors in the Des Moines Citi Bike bikesharing program. 
